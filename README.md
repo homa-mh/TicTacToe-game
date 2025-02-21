@@ -6,15 +6,14 @@ This is a simple **Tic Tac Toe** game built for Android using **Java** in **Andr
 
 - **Two-player mode**: Play against a friend on the same device.
 - **Single-player mode**: Play against the computer, with the computer making decisions using the **Minimax algorithm**.
-- **Game Logic**: Includes rules to check for a win, loss, or draw.
 - **Reset Option**: Restart the game at any time.
 
 ## Screenshots
 
 ![Tic Tac Toe Screenshot](Screenshot1.png)
-single player:
+### single player:
 ![Tic Tac Toe Screenshot](Screenshot2.png)
-two players:
+### two players:
 ![Tic Tac Toe Screenshot](Screenshot3.png)
 
 ## Installation
